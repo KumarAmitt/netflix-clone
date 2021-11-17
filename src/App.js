@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>This is the Netflix clone.</h1>
-      <Row title="NETFLIX ORIGINALS" fetchURL={requests.fetchNetflixOriginals} />
+      <Row title="NETFLIX ORIGINALS" fetchURL={requests.fetchNetflixOriginals} isLargeRow />
       <Row title="Trending Now" fetchURL={requests.fetchTrending} />
       <Row title="Action Movies" fetchURL={requests.fetchActionMovies} />
       <Row title="Comedy Movies" fetchURL={requests.fetchComedyMovies} />
