@@ -3,6 +3,7 @@
 This is the clone of Netflix App where a user can view the movies under various categories.
 
 ![screenshot](src/assets/images/screen1.png)
+
 ![screenshot](src/assets/images/screen2.png)
 
 
